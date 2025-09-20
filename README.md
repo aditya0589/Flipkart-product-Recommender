@@ -12,6 +12,9 @@ LLMOps flipkart product recommender system
 8. **Prometheus**: Collects and stores real-time metrics. Runs on Kubernetes.
 9. **Grafana**: Metrics visualization
 <br>
+<img width="909" height="613" alt="image" src="https://github.com/user-attachments/assets/6fe8d896-5e85-46a2-afd1-ca437e430a97" />
+
+
 
 
 
